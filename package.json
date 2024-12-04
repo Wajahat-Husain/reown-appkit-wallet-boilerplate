@@ -9,6 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "keywords": [],
+  "author": "Wajahat Hussain",
+  "license": "ISC",
   "dependencies": {
     "@reown/appkit": "^1.5.2",
     "@reown/appkit-adapter-ethers": "^1.5.2",
